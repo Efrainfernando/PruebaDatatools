@@ -32,3 +32,5 @@ ng serve
 
 ingresar en un navegador la ruta:
 http://localhost:4200/
+
+En el documento de word se encuentra el modelo ER y la consulta solicitada en el ejercicio
